@@ -1,5 +1,5 @@
 # Pentago Game
-Pentago Game coded in Python, Grade: 10/10
+Pentago Game coded in Python
 # Set Up
 Pentago is a two-player strategy game played on a 6x6 grid, consiting of four 3x3 sub-boards. Player can challlenge other players as well as the computer, with two difficulty levels. 
 # Objective
